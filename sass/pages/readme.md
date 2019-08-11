@@ -1,0 +1,1 @@
+When we have specific style for specific page, we can create a new for for that sepcific page on pages folder.
